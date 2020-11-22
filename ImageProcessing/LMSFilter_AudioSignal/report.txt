@@ -1,0 +1,2 @@
+SNR Before: -4.604936, SNR After: 5.318671, Tap: 5000, LR: 0.005000, 6.248961 secs 
+SNR Before: -4.604936, SNR After: 9.019755, Tap: 20000, LR: 0.005000, 27.285313 secs
